@@ -1,0 +1,4 @@
+require_relative 'String.rb'
+
+puts gets.chomp.to_hash
+
